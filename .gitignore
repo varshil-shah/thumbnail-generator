@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+downloaded_video.mp4
+temp_thumbnail.jpg
+.venv/
